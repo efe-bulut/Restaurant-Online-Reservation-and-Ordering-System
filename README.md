@@ -26,8 +26,7 @@ A modern web-based application that allows customers to reserve tables and order
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: PHP running on XAMPP
 - **Database**: MySQL
-- **Authentication**: Session or JWT based
-- **Validation**: JavaScript validation on forms
+- **Authentication**: PHP sessions, password hashing
 
 ## 📋 Main Requirements Fulfilled
 - ✅ User signup and sign-in system
@@ -68,9 +67,3 @@ A modern web-based application that allows customers to reserve tables and order
 ## 👤 Roles
 - **Customer**: Can register, reserve tables, and place orders
 - **Admin**: Full control over menu and reservations
-
----
-
-⭐ **Star this project** if you find it useful!
-
-Made with ❤️ for restaurant businesses.
